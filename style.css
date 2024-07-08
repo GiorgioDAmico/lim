@@ -1,0 +1,63 @@
+body{
+  background-image: url(background.jpg);
+  background-repeat: no-repeat;;
+  background-size: 1920px 1000px;
+}
+
+.container{
+  width: 1100px;
+  height: 700px;
+  margin: auto;
+  background-color: black;
+  border-radius: 15px;
+  opacity: 0.8;
+}
+
+.logo{
+  width: 200px;
+  display: block;
+  margin-left:auto;
+  margin-right: auto;
+  margin-top: 100px;
+  margin-bottom: auto;
+}
+
+.logo-text{
+  font-size: 30px;
+  text-align: center;
+  color: lime;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.row{
+  text-align: center;
+  background-color: lime;
+  }
+
+.checkbox{
+  color: white;
+  margin-top: 20px;
+  padding-left: 50px;
+}
+
+.br1{
+  border-radius: 5px;
+  width: 250px;
+  height: 20px;
+  background-color: orange;
+}
+
+.br2{
+  border-radius: 5px;
+  width: 450px;
+  height: 20px;
+  background-color: lime;
+}
+
+.br3{
+  border-radius: 5px;
+  width: 120px;
+  height: 20px;
+  background-color: red;
+}
